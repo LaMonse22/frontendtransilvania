@@ -4,8 +4,6 @@
         <div class="header">
       <h2></h2>
       
-
-      </nav>
     </div>
     <img src="..\images\logoT.png">
     <nav>
