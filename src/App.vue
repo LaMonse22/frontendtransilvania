@@ -5,7 +5,7 @@
       <h2></h2>
       
     </div>
-    <img src="..\images\logoT.png">
+    <!--<img src="..\images\logoT.png">-->
     <nav>
        <h1>Modulo Reservas</h1>
       <button v-on:click="Consultar_Reserva1">Consultar Reserva</button>
